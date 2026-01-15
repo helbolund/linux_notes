@@ -2,8 +2,6 @@
 
 My personal notes and tips for linux
 
-[[_TOC_]]
-
 ## Ubuntu
 ### Update snap store
 The snap store update fails because its running during the update.
